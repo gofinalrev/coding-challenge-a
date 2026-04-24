@@ -10,6 +10,10 @@ items on the packing list to the user. This data could later be used in an
 internal purchasing management system to track the status of each order (out of
 scope for this challenge).
 
+<!-- Image of packing list -->
+
+![Packing List](./examples/example-c.png)
+
 ## Notes
 
 - You don't need to go crazy with backend infra. Even a database / document
