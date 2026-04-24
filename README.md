@@ -15,7 +15,9 @@ scope for this challenge).
 - You don't need to go crazy with backend infra. Even a database / document
   storage isn't strictly necessary but if you want to use one that's totally
   fine.
-- Feel free to make any assumptions you need to in order to make the app work.
+- The coding challenge is deliberately open-ended. We're looking for you think
+  about the problem and consider what features you might like to have in the
+  app. Feel free to make any assumptions you need in order to move forward.
 - A barebones frontend has been created to get you started. Feel free to use it
   or not and make any change you'd like.
 - /examples contains some example packing lists that you can use to test your
