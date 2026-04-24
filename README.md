@@ -10,9 +10,11 @@ items on the packing list to the user. This data could later be used in an
 internal purchasing management system to track the status of each order (out of
 scope for this challenge).
 
-<!-- Image of packing list -->
+## Deliverables
 
-![Packing List](./examples/example-c.png)
+- A link to a public demo of your app.
+- The source code for your app shared privately via a GitHub repository or zip
+  file.
 
 ## Notes
 
@@ -26,3 +28,7 @@ scope for this challenge).
   or not and make any change you'd like.
 - /examples contains some example packing lists that you can use to test your
   app.
+
+## Example Packing List
+
+![Packing List](./examples/example-c.png)
